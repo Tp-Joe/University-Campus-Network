@@ -27,7 +27,7 @@ The network serves four departments (Management, Staff, Students, Servers), each
 
 ## Topology
 
-![Logical diagram](docs/logical-diagram.png)
+![Logical diagram](logical-diagram.png)
 
 - **Edge:** Router0, linked to both core switches over 10.0.50.0/24 and 10.0.60.0/24
 - **Core:** Two Core switches joined by an EtherChannel bundle
